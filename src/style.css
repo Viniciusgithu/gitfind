@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1D2128;
+  background-image: url('../public/background.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
